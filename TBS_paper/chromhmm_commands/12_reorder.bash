@@ -1,0 +1,2 @@
+# java -mx4000M -jar ../../ChromHMM/ChromHMM.jar Reorder -m untrimmed_nolocal_stage30_15_out/labelmappingfile untrimmed_nolocal_stage30_15_out/model_15.txt untrimmed_nolocal_statelabels_stage30_15_out
+java -mx4000M -jar ChromHMM/ChromHMM.jar Reorder -o untrimmed_nolocal_stage30_15_out/stateorderingfile untrimmed_nolocal_stage30_15_out/model_15.txt untrimmed_nolocal_stage30_reordered_15_out

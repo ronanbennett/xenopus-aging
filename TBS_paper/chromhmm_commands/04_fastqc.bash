@@ -1,0 +1,1 @@
+# Perform fastqc from command line
